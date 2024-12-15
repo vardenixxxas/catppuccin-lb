@@ -13,9 +13,9 @@
 
 ## Usage
 
-1. Download your preferred flavour
+1. Download your preferred flavor
 > [!NOTE]  
-> I am only currently maintaining Mocha (Mauve), however you may change the colour in colors.scss and rebuild!
+> I am only currently maintaining Mocha (Mauve), however you may change the color in colors.scss and rebuild!
 
 ```
 git clone https://github.com/liquidsquid1/catppuccin-lb.git
