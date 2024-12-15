@@ -18,7 +18,7 @@
 > I am only currently maintaining Mocha (Mauve), however you may change the colour in colors.scss and rebuild!
 
 ```
-git clone htpps://github.com/liquidsquid1/catppuccin-lb.git
+git clone https://github.com/liquidsquid1/catppuccin-lb.git
 ```
 
 2. Compile it using Node
